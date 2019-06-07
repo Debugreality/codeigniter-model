@@ -1,13 +1,13 @@
 {
-    "name": "yidas/codeigniter-model",
+    "name": "debugreality/codeigniter-model",
     "description": "CodeIgniter 3 ORM Base Model pattern with My_model example",
     "keywords": ["codeIgniter", "model", "base model", "my_model"],
-    "homepage": "https://github.com/yidas/codeigniter-model",
+    "homepage": "https://github.com/debugreality/codeigniter-model",
     "type": "library",
     "license": "MIT",
     "support": {
-        "issues": "https://github.com/yidas/codeigniter-model/issues",
-        "source": "https://github.com/yidas/codeigniter-model"
+        "issues": "https://github.com/debugreality/codeigniter-model/issues",
+        "source": "https://github.com/debugreality/codeigniter-model"
     },
     "minimum-stability": "stable",
     "require": {
